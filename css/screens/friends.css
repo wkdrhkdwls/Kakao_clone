@@ -5,9 +5,14 @@
   background-color: #fafafa;
   padding: 5px 0px;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 #friends-display-link i {
   padding-right: 5px;
   color: rgba(0, 0, 0, 0.3);
+}
+
+.friends-screen {
+  padding: 0px var(--horizontal-space);
 }
